@@ -1,0 +1,9 @@
+models
+raw_datasets
+datasets
+*.pyc
+.vscode
+.ipynb_checkpoints
+ipynbs
+models*
+*.ipynb
